@@ -1,5 +1,6 @@
 # SKN_to_OBJ
-DLL exposing functions for converting a League of Legends .SKN model file to a WaveFront .OBJ format. Written in C#. Created in 2016, refactoring soon.
+DLL exposing functions for converting a League of Legends .SKN model file to a WaveFront .OBJ format. Written in C#. 
+Created in 2016, refactoring soon.
 
 ## TL;DR:
 *The following instructions assume that you have set up a dev environment with a C# compiler like Roslyn
